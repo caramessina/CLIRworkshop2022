@@ -4,7 +4,7 @@ This GitHub repository was created for the 2022 CLIR Fellows workshop introducti
 ## Folder Structure
 Each workshop participant will create their own folder following a naming convention: INITIALS+favoriteyear. Inside each folder will be a markdown file that contains information about:
 - A header introducing the file
-- The participant's favorite color
+- Participant's favorite color
 - How the participant may use GitHub
 
 ## About Workshop Lead
