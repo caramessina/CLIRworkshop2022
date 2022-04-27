@@ -1,4 +1,4 @@
-# CLIR Fellows Workshop 2022
+# CLIR Fellows GitHub Workshop 2022
 This GitHub repository was created for the 2022 CLIR Fellows workshop introducing GitHub, GitHub Desktop, and GitHub Pages. This repository is temporary and only meant to be used by the fellows for practice. 
 
 ## Folder Structure
